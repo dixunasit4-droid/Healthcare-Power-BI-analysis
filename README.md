@@ -1,5 +1,6 @@
 Healthcare Data Analysis & Visualization
 This project focuses on the cleaning, exploratory data analysis (EDA), and visualization of a comprehensive healthcare dataset. The goal is to uncover trends in patient admissions, medical conditions, and billing patterns to provide actionable insights into hospital operations and patient care.
+
 📊 Project Overview
 The dataset contains records of patient admissions, including demographic information, medical conditions, billing amounts, and hospital details. This project demonstrates data preprocessing techniques and the creation of visual dashboards to interpret complex healthcare metrics.
 
